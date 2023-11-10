@@ -13,7 +13,7 @@ let studentNames = ["Hussain", "Fahad", "Wahaj"];
 // studentNames.splice(2, 1, "ali");
 // studentNames.splice(4, 0, "ali Hhssain");
 studentNames.splice(0, 0, "ali Hhssain 1");
-console.log(studentNames);
+// console.log(studentNames);
 // console.log(studentNames.length);
 // console.log(performance.now());
 //write a function that will add more student name in existing array
